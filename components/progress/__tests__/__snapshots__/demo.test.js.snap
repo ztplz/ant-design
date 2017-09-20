@@ -7,11 +7,11 @@ exports[`renders ./components/progress/demo/circle.md correctly 1`] = `
   >
     <div
       class="ant-progress-inner"
-      style="width:132px;height:132px;font-size:27.12px;"
+      style="width:132px;height:132px;font-size:27.12px"
     >
       <svg
         class="ant-progress-circle "
-        viewbox="0 0 100 100"
+        viewBox="0 0 100 100"
       >
         <path
           class="ant-progress-circle-trail"
@@ -21,8 +21,10 @@ exports[`renders ./components/progress/demo/circle.md correctly 1`] = `
           fill-opacity="0"
           stroke="#f3f3f3"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
         <path
           class="ant-progress-circle-path"
           d="M 50,50 m 0,-47
@@ -32,8 +34,10 @@ exports[`renders ./components/progress/demo/circle.md correctly 1`] = `
           stroke="#108ee9"
           stroke-linecap="round"
           stroke-width="6"
-          style="stroke-dasharray:221.48228207808043px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:221.48228207808043px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
       </svg>
       <span
         class="ant-progress-text"
@@ -47,11 +51,11 @@ exports[`renders ./components/progress/demo/circle.md correctly 1`] = `
   >
     <div
       class="ant-progress-inner"
-      style="width:132px;height:132px;font-size:27.12px;"
+      style="width:132px;height:132px;font-size:27.12px"
     >
       <svg
         class="ant-progress-circle "
-        viewbox="0 0 100 100"
+        viewBox="0 0 100 100"
       >
         <path
           class="ant-progress-circle-trail"
@@ -61,8 +65,10 @@ exports[`renders ./components/progress/demo/circle.md correctly 1`] = `
           fill-opacity="0"
           stroke="#f3f3f3"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
         <path
           class="ant-progress-circle-path"
           d="M 50,50 m 0,-47
@@ -72,15 +78,19 @@ exports[`renders ./components/progress/demo/circle.md correctly 1`] = `
           stroke="#ff5500"
           stroke-linecap="round"
           stroke-width="6"
-          style="stroke-dasharray:206.7167966062084px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:206.7167966062084px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
       </svg>
       <span
         class="ant-progress-text"
       >
         <i
           class="anticon anticon-cross"
-        />
+        >
+          
+        </i>
       </span>
     </div>
   </div>
@@ -89,11 +99,11 @@ exports[`renders ./components/progress/demo/circle.md correctly 1`] = `
   >
     <div
       class="ant-progress-inner"
-      style="width:132px;height:132px;font-size:27.12px;"
+      style="width:132px;height:132px;font-size:27.12px"
     >
       <svg
         class="ant-progress-circle "
-        viewbox="0 0 100 100"
+        viewBox="0 0 100 100"
       >
         <path
           class="ant-progress-circle-trail"
@@ -103,8 +113,10 @@ exports[`renders ./components/progress/demo/circle.md correctly 1`] = `
           fill-opacity="0"
           stroke="#f3f3f3"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
         <path
           class="ant-progress-circle-path"
           d="M 50,50 m 0,-47
@@ -114,15 +126,19 @@ exports[`renders ./components/progress/demo/circle.md correctly 1`] = `
           stroke="#87d068"
           stroke-linecap="round"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
       </svg>
       <span
         class="ant-progress-text"
       >
         <i
           class="anticon anticon-check"
-        />
+        >
+          
+        </i>
       </span>
     </div>
   </div>
@@ -136,11 +152,11 @@ exports[`renders ./components/progress/demo/circle-dynamic.md correctly 1`] = `
   >
     <div
       class="ant-progress-inner"
-      style="width:132px;height:132px;font-size:27.12px;"
+      style="width:132px;height:132px;font-size:27.12px"
     >
       <svg
         class="ant-progress-circle "
-        viewbox="0 0 100 100"
+        viewBox="0 0 100 100"
       >
         <path
           class="ant-progress-circle-trail"
@@ -150,8 +166,10 @@ exports[`renders ./components/progress/demo/circle-dynamic.md correctly 1`] = `
           fill-opacity="0"
           stroke="#f3f3f3"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
       </svg>
       <span
         class="ant-progress-text"
@@ -169,7 +187,9 @@ exports[`renders ./components/progress/demo/circle-dynamic.md correctly 1`] = `
     >
       <i
         class="anticon anticon-minus"
-      />
+      >
+        
+      </i>
     </button>
     <button
       class="ant-btn ant-btn-icon-only"
@@ -177,7 +197,9 @@ exports[`renders ./components/progress/demo/circle-dynamic.md correctly 1`] = `
     >
       <i
         class="anticon anticon-plus"
-      />
+      >
+        
+      </i>
     </button>
   </div>
 </div>
@@ -190,11 +212,11 @@ exports[`renders ./components/progress/demo/circle-mini.md correctly 1`] = `
   >
     <div
       class="ant-progress-inner"
-      style="width:80px;height:80px;font-size:18.8px;"
+      style="width:80px;height:80px;font-size:18.8px"
     >
       <svg
         class="ant-progress-circle "
-        viewbox="0 0 100 100"
+        viewBox="0 0 100 100"
       >
         <path
           class="ant-progress-circle-trail"
@@ -204,8 +226,10 @@ exports[`renders ./components/progress/demo/circle-mini.md correctly 1`] = `
           fill-opacity="0"
           stroke="#f3f3f3"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
         <path
           class="ant-progress-circle-path"
           d="M 50,50 m 0,-47
@@ -215,8 +239,10 @@ exports[`renders ./components/progress/demo/circle-mini.md correctly 1`] = `
           stroke="#108ee9"
           stroke-linecap="round"
           stroke-width="6"
-          style="stroke-dasharray:88.59291283123217px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:88.59291283123217px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
       </svg>
       <span
         class="ant-progress-text"
@@ -230,11 +256,11 @@ exports[`renders ./components/progress/demo/circle-mini.md correctly 1`] = `
   >
     <div
       class="ant-progress-inner"
-      style="width:80px;height:80px;font-size:18.8px;"
+      style="width:80px;height:80px;font-size:18.8px"
     >
       <svg
         class="ant-progress-circle "
-        viewbox="0 0 100 100"
+        viewBox="0 0 100 100"
       >
         <path
           class="ant-progress-circle-trail"
@@ -244,8 +270,10 @@ exports[`renders ./components/progress/demo/circle-mini.md correctly 1`] = `
           fill-opacity="0"
           stroke="#f3f3f3"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
         <path
           class="ant-progress-circle-path"
           d="M 50,50 m 0,-47
@@ -255,15 +283,19 @@ exports[`renders ./components/progress/demo/circle-mini.md correctly 1`] = `
           stroke="#ff5500"
           stroke-linecap="round"
           stroke-width="6"
-          style="stroke-dasharray:206.7167966062084px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:206.7167966062084px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
       </svg>
       <span
         class="ant-progress-text"
       >
         <i
           class="anticon anticon-cross"
-        />
+        >
+          
+        </i>
       </span>
     </div>
   </div>
@@ -272,11 +304,11 @@ exports[`renders ./components/progress/demo/circle-mini.md correctly 1`] = `
   >
     <div
       class="ant-progress-inner"
-      style="width:80px;height:80px;font-size:18.8px;"
+      style="width:80px;height:80px;font-size:18.8px"
     >
       <svg
         class="ant-progress-circle "
-        viewbox="0 0 100 100"
+        viewBox="0 0 100 100"
       >
         <path
           class="ant-progress-circle-trail"
@@ -286,8 +318,10 @@ exports[`renders ./components/progress/demo/circle-mini.md correctly 1`] = `
           fill-opacity="0"
           stroke="#f3f3f3"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
         <path
           class="ant-progress-circle-path"
           d="M 50,50 m 0,-47
@@ -297,15 +331,19 @@ exports[`renders ./components/progress/demo/circle-mini.md correctly 1`] = `
           stroke="#87d068"
           stroke-linecap="round"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
       </svg>
       <span
         class="ant-progress-text"
       >
         <i
           class="anticon anticon-check"
-        />
+        >
+          
+        </i>
       </span>
     </div>
   </div>
@@ -318,11 +356,11 @@ exports[`renders ./components/progress/demo/dashboard.md correctly 1`] = `
 >
   <div
     class="ant-progress-inner"
-    style="width:132px;height:132px;font-size:27.12px;"
+    style="width:132px;height:132px;font-size:27.12px"
   >
     <svg
       class="ant-progress-circle "
-      viewbox="0 0 100 100"
+      viewBox="0 0 100 100"
     >
       <path
         class="ant-progress-circle-trail"
@@ -332,8 +370,10 @@ exports[`renders ./components/progress/demo/dashboard.md correctly 1`] = `
         fill-opacity="0"
         stroke="#f3f3f3"
         stroke-width="6"
-        style="stroke-dasharray:220.30970943744057px 295.3097094374406px;stroke-dashoffset:-37.5px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-      />
+        style="stroke-dasharray:220.30970943744057px 295.3097094374406px;stroke-dashoffset:-37.5px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+      >
+        
+      </path>
       <path
         class="ant-progress-circle-path"
         d="M 50,50 m 0,47
@@ -343,8 +383,10 @@ exports[`renders ./components/progress/demo/dashboard.md correctly 1`] = `
         stroke="#108ee9"
         stroke-linecap="round"
         stroke-width="6"
-        style="stroke-dasharray:165.23228207808043px 295.3097094374406px;stroke-dashoffset:-37.5px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-      />
+        style="stroke-dasharray:165.23228207808043px 295.3097094374406px;stroke-dashoffset:-37.5px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+      >
+        
+      </path>
     </svg>
     <span
       class="ant-progress-text"
@@ -369,8 +411,10 @@ exports[`renders ./components/progress/demo/dynamic.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:0%;height:10px;"
-          />
+            style="width:0%;height:10px"
+          >
+            
+          </div>
         </div>
       </div>
       <span
@@ -389,7 +433,9 @@ exports[`renders ./components/progress/demo/dynamic.md correctly 1`] = `
     >
       <i
         class="anticon anticon-minus"
-      />
+      >
+        
+      </i>
     </button>
     <button
       class="ant-btn ant-btn-icon-only"
@@ -397,7 +443,9 @@ exports[`renders ./components/progress/demo/dynamic.md correctly 1`] = `
     >
       <i
         class="anticon anticon-plus"
-      />
+      >
+        
+      </i>
     </button>
   </div>
 </div>
@@ -410,11 +458,11 @@ exports[`renders ./components/progress/demo/format.md correctly 1`] = `
   >
     <div
       class="ant-progress-inner"
-      style="width:132px;height:132px;font-size:27.12px;"
+      style="width:132px;height:132px;font-size:27.12px"
     >
       <svg
         class="ant-progress-circle "
-        viewbox="0 0 100 100"
+        viewBox="0 0 100 100"
       >
         <path
           class="ant-progress-circle-trail"
@@ -424,8 +472,10 @@ exports[`renders ./components/progress/demo/format.md correctly 1`] = `
           fill-opacity="0"
           stroke="#f3f3f3"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
         <path
           class="ant-progress-circle-path"
           d="M 50,50 m 0,-47
@@ -435,8 +485,10 @@ exports[`renders ./components/progress/demo/format.md correctly 1`] = `
           stroke="#108ee9"
           stroke-linecap="round"
           stroke-width="6"
-          style="stroke-dasharray:221.48228207808043px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:221.48228207808043px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
       </svg>
       <span
         class="ant-progress-text"
@@ -450,11 +502,11 @@ exports[`renders ./components/progress/demo/format.md correctly 1`] = `
   >
     <div
       class="ant-progress-inner"
-      style="width:132px;height:132px;font-size:27.12px;"
+      style="width:132px;height:132px;font-size:27.12px"
     >
       <svg
         class="ant-progress-circle "
-        viewbox="0 0 100 100"
+        viewBox="0 0 100 100"
       >
         <path
           class="ant-progress-circle-trail"
@@ -464,8 +516,10 @@ exports[`renders ./components/progress/demo/format.md correctly 1`] = `
           fill-opacity="0"
           stroke="#f3f3f3"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
         <path
           class="ant-progress-circle-path"
           d="M 50,50 m 0,-47
@@ -475,8 +529,10 @@ exports[`renders ./components/progress/demo/format.md correctly 1`] = `
           stroke="#87d068"
           stroke-linecap="round"
           stroke-width="6"
-          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s;"
-        />
+          style="stroke-dasharray:295.3097094374406px 295.3097094374406px;stroke-dashoffset:-0px;transition:stroke-dashoffset .3s ease 0s, stroke-dasharray .3s ease 0s, stroke .3s"
+        >
+          
+        </path>
       </svg>
       <span
         class="ant-progress-text"
@@ -502,8 +558,10 @@ exports[`renders ./components/progress/demo/line.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:30%;height:10px;"
-          />
+            style="width:30%;height:10px"
+          >
+            
+          </div>
         </div>
       </div>
       <span
@@ -525,8 +583,10 @@ exports[`renders ./components/progress/demo/line.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:50%;height:10px;"
-          />
+            style="width:50%;height:10px"
+          >
+            
+          </div>
         </div>
       </div>
       <span
@@ -548,8 +608,10 @@ exports[`renders ./components/progress/demo/line.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:70%;height:10px;"
-          />
+            style="width:70%;height:10px"
+          >
+            
+          </div>
         </div>
       </div>
       <span
@@ -557,7 +619,9 @@ exports[`renders ./components/progress/demo/line.md correctly 1`] = `
       >
         <i
           class="anticon anticon-cross-circle"
-        />
+        >
+          
+        </i>
       </span>
     </div>
   </div>
@@ -573,8 +637,10 @@ exports[`renders ./components/progress/demo/line.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:100%;height:10px;"
-          />
+            style="width:100%;height:10px"
+          >
+            
+          </div>
         </div>
       </div>
       <span
@@ -582,7 +648,9 @@ exports[`renders ./components/progress/demo/line.md correctly 1`] = `
       >
         <i
           class="anticon anticon-check-circle"
-        />
+        >
+          
+        </i>
       </span>
     </div>
   </div>
@@ -598,8 +666,10 @@ exports[`renders ./components/progress/demo/line.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:50%;height:10px;"
-          />
+            style="width:50%;height:10px"
+          >
+            
+          </div>
         </div>
       </div>
     </div>
@@ -609,7 +679,7 @@ exports[`renders ./components/progress/demo/line.md correctly 1`] = `
 
 exports[`renders ./components/progress/demo/line-mini.md correctly 1`] = `
 <div
-  style="width:170px;"
+  style="width:170px"
 >
   <div
     class="ant-progress ant-progress-line ant-progress-status-normal ant-progress-show-info"
@@ -623,8 +693,10 @@ exports[`renders ./components/progress/demo/line-mini.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:30%;height:5px;"
-          />
+            style="width:30%;height:5px"
+          >
+            
+          </div>
         </div>
       </div>
       <span
@@ -646,8 +718,10 @@ exports[`renders ./components/progress/demo/line-mini.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:50%;height:5px;"
-          />
+            style="width:50%;height:5px"
+          >
+            
+          </div>
         </div>
       </div>
       <span
@@ -669,8 +743,10 @@ exports[`renders ./components/progress/demo/line-mini.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:70%;height:5px;"
-          />
+            style="width:70%;height:5px"
+          >
+            
+          </div>
         </div>
       </div>
       <span
@@ -678,7 +754,9 @@ exports[`renders ./components/progress/demo/line-mini.md correctly 1`] = `
       >
         <i
           class="anticon anticon-cross-circle"
-        />
+        >
+          
+        </i>
       </span>
     </div>
   </div>
@@ -694,8 +772,10 @@ exports[`renders ./components/progress/demo/line-mini.md correctly 1`] = `
         >
           <div
             class="ant-progress-bg"
-            style="width:100%;height:5px;"
-          />
+            style="width:100%;height:5px"
+          >
+            
+          </div>
         </div>
       </div>
       <span
@@ -703,7 +783,9 @@ exports[`renders ./components/progress/demo/line-mini.md correctly 1`] = `
       >
         <i
           class="anticon anticon-check-circle"
-        />
+        >
+          
+        </i>
       </span>
     </div>
   </div>

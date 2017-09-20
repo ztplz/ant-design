@@ -3,7 +3,7 @@
 exports[`renders ./components/tree-select/demo/basic.md correctly 1`] = `
 <span
   class="ant-select ant-select-enabled ant-select-allow-clear"
-  style="width:300px;"
+  style="width:300px"
 >
   <span
     aria-autocomplete="list"
@@ -24,9 +24,11 @@ exports[`renders ./components/tree-select/demo/basic.md correctly 1`] = `
     </span>
     <span
       class="ant-select-arrow"
-      style="outline:none;"
+      style="outline:none"
     >
-      <b />
+      <b>
+        
+      </b>
     </span>
   </span>
 </span>
@@ -35,7 +37,7 @@ exports[`renders ./components/tree-select/demo/basic.md correctly 1`] = `
 exports[`renders ./components/tree-select/demo/checkable.md correctly 1`] = `
 <span
   class="ant-select ant-select-enabled"
-  style="width:300px;"
+  style="width:300px"
 >
   <span
     aria-autocomplete="list"
@@ -49,13 +51,15 @@ exports[`renders ./components/tree-select/demo/checkable.md correctly 1`] = `
     >
       <li
         class="ant-select-selection__choice"
-        style="user-select:none;-webkit-user-select:none;"
+        style="user-select:none;-webkit-user-select:none"
         title="Node1"
         unselectable="unselectable"
       >
         <span
           class="ant-select-selection__choice__remove"
-        />
+        >
+          
+        </span>
         <span
           class="ant-select-selection__choice__content"
         >
@@ -72,7 +76,9 @@ exports[`renders ./components/tree-select/demo/checkable.md correctly 1`] = `
             class="ant-select-search__field"
             role="textbox"
             value=""
-          />
+          >
+            
+          </input>
           <span
             class="ant-select-search__field__mirror"
           >
@@ -83,7 +89,7 @@ exports[`renders ./components/tree-select/demo/checkable.md correctly 1`] = `
     </ul>
     <span
       class="ant-select-search__field__placeholder"
-      style="display:none;"
+      style="display:none"
     >
       Please select
     </span>
@@ -94,7 +100,7 @@ exports[`renders ./components/tree-select/demo/checkable.md correctly 1`] = `
 exports[`renders ./components/tree-select/demo/multiple.md correctly 1`] = `
 <span
   class="ant-select ant-select-enabled ant-select-allow-clear"
-  style="width:300px;"
+  style="width:300px"
 >
   <span
     aria-autocomplete="list"
@@ -116,7 +122,9 @@ exports[`renders ./components/tree-select/demo/multiple.md correctly 1`] = `
             class="ant-select-search__field"
             role="textbox"
             value=""
-          />
+          >
+            
+          </input>
           <span
             class="ant-select-search__field__mirror"
           >
@@ -127,7 +135,7 @@ exports[`renders ./components/tree-select/demo/multiple.md correctly 1`] = `
     </ul>
     <span
       class="ant-select-search__field__placeholder"
-      style="display:block;"
+      style="display:block"
     >
       Please select
     </span>
@@ -138,7 +146,7 @@ exports[`renders ./components/tree-select/demo/multiple.md correctly 1`] = `
 exports[`renders ./components/tree-select/demo/treeData.md correctly 1`] = `
 <span
   class="ant-select ant-select-enabled"
-  style="width:300px;"
+  style="width:300px"
 >
   <span
     aria-autocomplete="list"
@@ -159,9 +167,11 @@ exports[`renders ./components/tree-select/demo/treeData.md correctly 1`] = `
     </span>
     <span
       class="ant-select-arrow"
-      style="outline:none;"
+      style="outline:none"
     >
-      <b />
+      <b>
+        
+      </b>
     </span>
   </span>
 </span>

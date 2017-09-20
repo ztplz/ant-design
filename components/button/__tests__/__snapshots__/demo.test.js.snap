@@ -141,7 +141,9 @@ exports[`renders ./components/button/demo/button-group.md correctly 1`] = `
     >
       <i
         class="anticon anticon-left"
-      />
+      >
+        
+      </i>
       <span>
         Go back
       </span>
@@ -155,7 +157,9 @@ exports[`renders ./components/button/demo/button-group.md correctly 1`] = `
       </span>
       <i
         class="anticon anticon-right"
-      />
+      >
+        
+      </i>
     </button>
   </div>
   <div
@@ -167,7 +171,9 @@ exports[`renders ./components/button/demo/button-group.md correctly 1`] = `
     >
       <i
         class="anticon anticon-cloud"
-      />
+      >
+        
+      </i>
     </button>
     <button
       class="ant-btn ant-btn-primary ant-btn-icon-only"
@@ -175,7 +181,9 @@ exports[`renders ./components/button/demo/button-group.md correctly 1`] = `
     >
       <i
         class="anticon anticon-cloud-download"
-      />
+      >
+        
+      </i>
     </button>
   </div>
 </div>
@@ -200,7 +208,9 @@ exports[`renders ./components/button/demo/disabled.md correctly 1`] = `
       Primary(disabled)
     </span>
   </button>
-  <br />
+  <br>
+    
+  </br>
   <button
     class="ant-btn"
     type="button"
@@ -218,7 +228,9 @@ exports[`renders ./components/button/demo/disabled.md correctly 1`] = `
       Default(disabled)
     </span>
   </button>
-  <br />
+  <br>
+    
+  </br>
   <button
     class="ant-btn"
     type="button"
@@ -236,7 +248,9 @@ exports[`renders ./components/button/demo/disabled.md correctly 1`] = `
       Ghost(disabled)
     </span>
   </button>
-  <br />
+  <br>
+    
+  </br>
   <button
     class="ant-btn ant-btn-dashed"
     type="button"
@@ -259,7 +273,7 @@ exports[`renders ./components/button/demo/disabled.md correctly 1`] = `
 
 exports[`renders ./components/button/demo/ghost.md correctly 1`] = `
 <div
-  style="background:rgb(190, 200, 200);padding:26px 16px 16px;"
+  style="background:rgb(190, 200, 200);padding:26px 16px 16px"
 >
   <button
     class="ant-btn ant-btn-primary ant-btn-background-ghost"
@@ -304,7 +318,9 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
   >
     <i
       class="anticon anticon-search"
-    />
+    >
+      
+    </i>
   </button>
   <button
     class="ant-btn ant-btn-primary"
@@ -312,7 +328,9 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
   >
     <i
       class="anticon anticon-search"
-    />
+    >
+      
+    </i>
     <span>
       Search
     </span>
@@ -323,7 +341,9 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
   >
     <i
       class="anticon anticon-search"
-    />
+    >
+      
+    </i>
   </button>
   <button
     class="ant-btn"
@@ -331,19 +351,25 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
   >
     <i
       class="anticon anticon-search"
-    />
+    >
+      
+    </i>
     <span>
       Search
     </span>
   </button>
-  <br />
+  <br>
+    
+  </br>
   <button
     class="ant-btn ant-btn-circle ant-btn-icon-only"
     type="button"
   >
     <i
       class="anticon anticon-search"
-    />
+    >
+      
+    </i>
   </button>
   <button
     class="ant-btn"
@@ -351,7 +377,9 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
   >
     <i
       class="anticon anticon-search"
-    />
+    >
+      
+    </i>
     <span>
       Search
     </span>
@@ -362,7 +390,9 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
   >
     <i
       class="anticon anticon-search"
-    />
+    >
+      
+    </i>
   </button>
   <button
     class="ant-btn ant-btn-dashed"
@@ -370,7 +400,9 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
   >
     <i
       class="anticon anticon-search"
-    />
+    >
+      
+    </i>
     <span>
       Search
     </span>
@@ -386,7 +418,9 @@ exports[`renders ./components/button/demo/loading.md correctly 1`] = `
   >
     <i
       class="anticon anticon-spin anticon-loading"
-    />
+    >
+      
+    </i>
     <span>
       Loading
     </span>
@@ -397,12 +431,16 @@ exports[`renders ./components/button/demo/loading.md correctly 1`] = `
   >
     <i
       class="anticon anticon-spin anticon-loading"
-    />
+    >
+      
+    </i>
     <span>
       Loading
     </span>
   </button>
-  <br />
+  <br>
+    
+  </br>
   <button
     class="ant-btn ant-btn-primary"
     type="button"
@@ -417,19 +455,25 @@ exports[`renders ./components/button/demo/loading.md correctly 1`] = `
   >
     <i
       class="anticon anticon-poweroff"
-    />
+    >
+      
+    </i>
     <span>
       Click me!
     </span>
   </button>
-  <br />
+  <br>
+    
+  </br>
   <button
     class="ant-btn ant-btn-circle ant-btn-loading"
     type="button"
   >
     <i
       class="anticon anticon-spin anticon-loading"
-    />
+    >
+      
+    </i>
   </button>
   <button
     class="ant-btn ant-btn-primary ant-btn-circle ant-btn-loading"
@@ -437,7 +481,9 @@ exports[`renders ./components/button/demo/loading.md correctly 1`] = `
   >
     <i
       class="anticon anticon-spin anticon-loading"
-    />
+    >
+      
+    </i>
   </button>
 </span>
 `;
@@ -469,7 +515,9 @@ exports[`renders ./components/button/demo/multiple.md correctly 1`] = `
     </span>
     <i
       class="anticon anticon-down"
-    />
+    >
+      
+    </i>
   </button>
 </div>
 `;
@@ -489,10 +537,14 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
           checked=""
           class="ant-radio-button-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-button-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Large
@@ -507,10 +559,14 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
         <input
           class="ant-radio-button-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-button-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Default
@@ -525,18 +581,26 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
         <input
           class="ant-radio-button-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-button-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Small
       </span>
     </label>
   </div>
-  <br />
-  <br />
+  <br>
+    
+  </br>
+  <br>
+    
+  </br>
   <button
     class="ant-btn ant-btn-primary ant-btn-lg"
     type="button"
@@ -569,14 +633,18 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
       Danger
     </span>
   </button>
-  <br />
+  <br>
+    
+  </br>
   <button
     class="ant-btn ant-btn-primary ant-btn-circle ant-btn-lg ant-btn-icon-only"
     type="button"
   >
     <i
       class="anticon anticon-download"
-    />
+    >
+      
+    </i>
   </button>
   <button
     class="ant-btn ant-btn-primary ant-btn-lg"
@@ -584,12 +652,16 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
   >
     <i
       class="anticon anticon-download"
-    />
+    >
+      
+    </i>
     <span>
       Download
     </span>
   </button>
-  <br />
+  <br>
+    
+  </br>
   <div
     class="ant-btn-group ant-btn-group-lg"
   >
@@ -599,7 +671,9 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
     >
       <i
         class="anticon anticon-left"
-      />
+      >
+        
+      </i>
       <span>
         Backward
       </span>
@@ -613,7 +687,9 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
       </span>
       <i
         class="anticon anticon-right"
-      />
+      >
+        
+      </i>
     </button>
   </div>
 </div>

@@ -5,8 +5,8 @@ import Carousel from '..';
 describe('Carousel', () => {
   it('should has innerSlider', () => {
     const wrapper = mount(<Carousel><div /></Carousel>);
-    const innerSlider = wrapper.node.innerSlider;
-    const innerSliderFromRefs = wrapper.node.slick.innerSlider;
+    const innerSlider = wrapper.instance().innerSlider;
+    const innerSliderFromRefs = wrapper.instance().slick.innerSlider;
     expect(innerSlider).toBe(innerSliderFromRefs);
     expect(typeof innerSlider.slickNext).toBe('function');
   });

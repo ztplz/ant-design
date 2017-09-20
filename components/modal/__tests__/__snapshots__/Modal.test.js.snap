@@ -6,7 +6,9 @@ exports[`Modal render correctly 1`] = `
     <div>
       <div
         class="ant-modal-mask fade-appear"
-      />
+      >
+        
+      </div>
       <div
         class="ant-modal-wrap "
         role="dialog"
@@ -26,7 +28,9 @@ exports[`Modal render correctly 1`] = `
             >
               <span
                 class="ant-modal-close-x"
-              />
+              >
+                
+              </span>
             </button>
             <div
               class="ant-modal-body"
@@ -73,7 +77,9 @@ exports[`Modal render without footer 1`] = `
     <div>
       <div
         class="ant-modal-mask fade-appear"
-      />
+      >
+        
+      </div>
       <div
         class="ant-modal-wrap "
         role="dialog"
@@ -93,7 +99,9 @@ exports[`Modal render without footer 1`] = `
             >
               <span
                 class="ant-modal-close-x"
-              />
+              >
+                
+              </span>
             </button>
             <div
               class="ant-modal-body"

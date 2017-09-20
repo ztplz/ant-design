@@ -8,7 +8,9 @@ exports[`renders ./components/badge/demo/basic.md correctly 1`] = `
     <a
       class="head-example"
       href="#"
-    />
+    >
+      
+    </a>
     <sup
       class="ant-scroll-number ant-badge-count"
       data-show="true"
@@ -16,7 +18,7 @@ exports[`renders ./components/badge/demo/basic.md correctly 1`] = `
     >
       <span
         class="ant-scroll-number-only"
-        style="transition:none;-ms-transform:translateY(-1500%);-webkit-transform:translateY(-1500%);transform:translateY(-1500%);"
+        style="transition:none;-ms-transform:translateY(-1500%);-webkit-transform:translateY(-1500%);transform:translateY(-1500%)"
       >
         <p
           class=""
@@ -177,7 +179,9 @@ exports[`renders ./components/badge/demo/basic.md correctly 1`] = `
     <a
       class="head-example"
       href="#"
-    />
+    >
+      
+    </a>
     <sup
       class="ant-scroll-number ant-badge-count"
       data-show="true"
@@ -198,7 +202,9 @@ exports[`renders ./components/badge/demo/change.md correctly 1`] = `
       <a
         class="head-example"
         href="#"
-      />
+      >
+        
+      </a>
       <sup
         class="ant-scroll-number ant-badge-count"
         data-show="true"
@@ -206,7 +212,7 @@ exports[`renders ./components/badge/demo/change.md correctly 1`] = `
       >
         <span
           class="ant-scroll-number-only"
-          style="transition:none;-ms-transform:translateY(-1500%);-webkit-transform:translateY(-1500%);transform:translateY(-1500%);"
+          style="transition:none;-ms-transform:translateY(-1500%);-webkit-transform:translateY(-1500%);transform:translateY(-1500%)"
         >
           <p
             class=""
@@ -370,7 +376,9 @@ exports[`renders ./components/badge/demo/change.md correctly 1`] = `
       >
         <i
           class="anticon anticon-minus"
-        />
+        >
+          
+        </i>
       </button>
       <button
         class="ant-btn"
@@ -378,12 +386,14 @@ exports[`renders ./components/badge/demo/change.md correctly 1`] = `
       >
         <i
           class="anticon anticon-plus"
-        />
+        >
+          
+        </i>
       </button>
     </div>
   </div>
   <div
-    style="margin-top:10px;"
+    style="margin-top:10px"
   >
     <span
       class="ant-badge"
@@ -391,11 +401,15 @@ exports[`renders ./components/badge/demo/change.md correctly 1`] = `
       <a
         class="head-example"
         href="#"
-      />
+      >
+        
+      </a>
       <sup
         class="ant-scroll-number ant-badge-dot"
         data-show="true"
-      />
+      >
+        
+      </sup>
     </span>
     <span
       checked=""
@@ -404,7 +418,9 @@ exports[`renders ./components/badge/demo/change.md correctly 1`] = `
     >
       <span
         class="ant-switch-inner"
-      />
+      >
+        
+      </span>
     </span>
   </div>
 </div>
@@ -417,11 +433,15 @@ exports[`renders ./components/badge/demo/dot.md correctly 1`] = `
   >
     <i
       class="anticon anticon-notification"
-    />
+    >
+      
+    </i>
     <sup
       class="ant-scroll-number ant-badge-dot"
       data-show="true"
-    />
+    >
+      
+    </sup>
   </span>
   <span
     class="ant-badge"
@@ -434,7 +454,9 @@ exports[`renders ./components/badge/demo/dot.md correctly 1`] = `
     <sup
       class="ant-scroll-number ant-badge-dot"
       data-show="true"
-    />
+    >
+      
+    </sup>
   </span>
 </div>
 `;
@@ -448,7 +470,9 @@ exports[`renders ./components/badge/demo/link.md correctly 1`] = `
   >
     <span
       class="head-example"
-    />
+    >
+      
+    </span>
     <sup
       class="ant-scroll-number ant-badge-count"
       data-show="true"
@@ -456,7 +480,7 @@ exports[`renders ./components/badge/demo/link.md correctly 1`] = `
     >
       <span
         class="ant-scroll-number-only"
-        style="transition:none;-ms-transform:translateY(-1500%);-webkit-transform:translateY(-1500%);transform:translateY(-1500%);"
+        style="transition:none;-ms-transform:translateY(-1500%);-webkit-transform:translateY(-1500%);transform:translateY(-1500%)"
       >
         <p
           class=""
@@ -626,7 +650,7 @@ exports[`renders ./components/badge/demo/no-wrapper.md correctly 1`] = `
     >
       <span
         class="ant-scroll-number-only"
-        style="transition:none;-ms-transform:translateY(-1200%);-webkit-transform:translateY(-1200%);transform:translateY(-1200%);"
+        style="transition:none;-ms-transform:translateY(-1200%);-webkit-transform:translateY(-1200%);transform:translateY(-1200%)"
       >
         <p
           class=""
@@ -781,7 +805,7 @@ exports[`renders ./components/badge/demo/no-wrapper.md correctly 1`] = `
       </span>
       <span
         class="ant-scroll-number-only"
-        style="transition:none;-ms-transform:translateY(-1500%);-webkit-transform:translateY(-1500%);transform:translateY(-1500%);"
+        style="transition:none;-ms-transform:translateY(-1500%);-webkit-transform:translateY(-1500%);transform:translateY(-1500%)"
       >
         <p
           class=""
@@ -942,12 +966,12 @@ exports[`renders ./components/badge/demo/no-wrapper.md correctly 1`] = `
     <sup
       class="ant-scroll-number ant-badge-count"
       data-show="true"
-      style="background-color:#fff;color:#999;box-shadow:0 0 0 1px #d9d9d9 inset;"
+      style="background-color:#fff;color:#999;box-shadow:0 0 0 1px #d9d9d9 inset"
       title="4"
     >
       <span
         class="ant-scroll-number-only"
-        style="transition:none;-ms-transform:translateY(-1400%);-webkit-transform:translateY(-1400%);transform:translateY(-1400%);"
+        style="transition:none;-ms-transform:translateY(-1400%);-webkit-transform:translateY(-1400%);transform:translateY(-1400%)"
       >
         <p
           class=""
@@ -1108,7 +1132,7 @@ exports[`renders ./components/badge/demo/no-wrapper.md correctly 1`] = `
     <sup
       class="ant-scroll-number ant-badge-count"
       data-show="true"
-      style="background-color:#87d068;"
+      style="background-color:#87d068"
       title="109"
     >
       99+
@@ -1125,7 +1149,9 @@ exports[`renders ./components/badge/demo/overflow.md correctly 1`] = `
     <a
       class="head-example"
       href="#"
-    />
+    >
+      
+    </a>
     <sup
       class="ant-scroll-number ant-badge-count"
       data-show="true"
@@ -1133,7 +1159,7 @@ exports[`renders ./components/badge/demo/overflow.md correctly 1`] = `
     >
       <span
         class="ant-scroll-number-only"
-        style="transition:none;-ms-transform:translateY(-1900%);-webkit-transform:translateY(-1900%);transform:translateY(-1900%);"
+        style="transition:none;-ms-transform:translateY(-1900%);-webkit-transform:translateY(-1900%);transform:translateY(-1900%)"
       >
         <p
           class=""
@@ -1288,7 +1314,7 @@ exports[`renders ./components/badge/demo/overflow.md correctly 1`] = `
       </span>
       <span
         class="ant-scroll-number-only"
-        style="transition:none;-ms-transform:translateY(-1900%);-webkit-transform:translateY(-1900%);transform:translateY(-1900%);"
+        style="transition:none;-ms-transform:translateY(-1900%);-webkit-transform:translateY(-1900%);transform:translateY(-1900%)"
       >
         <p
           class=""
@@ -1449,7 +1475,9 @@ exports[`renders ./components/badge/demo/overflow.md correctly 1`] = `
     <a
       class="head-example"
       href="#"
-    />
+    >
+      
+    </a>
     <sup
       class="ant-scroll-number ant-badge-count"
       data-show="true"
@@ -1464,7 +1492,9 @@ exports[`renders ./components/badge/demo/overflow.md correctly 1`] = `
     <a
       class="head-example"
       href="#"
-    />
+    >
+      
+    </a>
     <sup
       class="ant-scroll-number ant-badge-count"
       data-show="true"
@@ -1479,7 +1509,9 @@ exports[`renders ./components/badge/demo/overflow.md correctly 1`] = `
     <a
       class="head-example"
       href="#"
-    />
+    >
+      
+    </a>
     <sup
       class="ant-scroll-number ant-badge-count"
       data-show="true"
@@ -1498,110 +1530,150 @@ exports[`renders ./components/badge/demo/status.md correctly 1`] = `
   >
     <span
       class="ant-badge-status-dot ant-badge-status-success"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
-    />
+    >
+      
+    </span>
   </span>
   <span
     class="ant-badge ant-badge-status ant-badge-not-a-wrapper"
   >
     <span
       class="ant-badge-status-dot ant-badge-status-error"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
-    />
+    >
+      
+    </span>
   </span>
   <span
     class="ant-badge ant-badge-status ant-badge-not-a-wrapper"
   >
     <span
       class="ant-badge-status-dot ant-badge-status-default"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
-    />
+    >
+      
+    </span>
   </span>
   <span
     class="ant-badge ant-badge-status ant-badge-not-a-wrapper"
   >
     <span
       class="ant-badge-status-dot ant-badge-status-processing"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
-    />
+    >
+      
+    </span>
   </span>
   <span
     class="ant-badge ant-badge-status ant-badge-not-a-wrapper"
   >
     <span
       class="ant-badge-status-dot ant-badge-status-warning"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
-    />
+    >
+      
+    </span>
   </span>
-  <br />
+  <br>
+    
+  </br>
   <span
     class="ant-badge ant-badge-status ant-badge-not-a-wrapper"
   >
     <span
       class="ant-badge-status-dot ant-badge-status-success"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
     >
       Success
     </span>
   </span>
-  <br />
+  <br>
+    
+  </br>
   <span
     class="ant-badge ant-badge-status ant-badge-not-a-wrapper"
   >
     <span
       class="ant-badge-status-dot ant-badge-status-error"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
     >
       Error
     </span>
   </span>
-  <br />
+  <br>
+    
+  </br>
   <span
     class="ant-badge ant-badge-status ant-badge-not-a-wrapper"
   >
     <span
       class="ant-badge-status-dot ant-badge-status-default"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
     >
       Default
     </span>
   </span>
-  <br />
+  <br>
+    
+  </br>
   <span
     class="ant-badge ant-badge-status ant-badge-not-a-wrapper"
   >
     <span
       class="ant-badge-status-dot ant-badge-status-processing"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
     >
       Processing
     </span>
   </span>
-  <br />
+  <br>
+    
+  </br>
   <span
     class="ant-badge ant-badge-status ant-badge-not-a-wrapper"
   >
     <span
       class="ant-badge-status-dot ant-badge-status-warning"
-    />
+    >
+      
+    </span>
     <span
       class="ant-badge-status-text"
     >

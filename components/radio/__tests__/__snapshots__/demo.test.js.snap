@@ -10,10 +10,14 @@ exports[`renders ./components/radio/demo/basic.md correctly 1`] = `
     <input
       class="ant-radio-input"
       type="radio"
-    />
+    >
+      
+    </input>
     <span
       class="ant-radio-inner"
-    />
+    >
+      
+    </span>
   </span>
   <span>
     Radio
@@ -33,16 +37,22 @@ exports[`renders ./components/radio/demo/disable.md correctly 1`] = `
         class="ant-radio-input"
         disabled=""
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       Disabled
     </span>
   </label>
-  <br />
+  <br>
+    
+  </br>
   <label
     class="ant-radio-wrapper ant-radio-wrapper-disabled"
   >
@@ -54,17 +64,21 @@ exports[`renders ./components/radio/demo/disable.md correctly 1`] = `
         class="ant-radio-input"
         disabled=""
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       Disabled
     </span>
   </label>
   <div
-    style="margin-top:20px;"
+    style="margin-top:20px"
   >
     <button
       class="ant-btn ant-btn-primary"
@@ -94,10 +108,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
             checked=""
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Hangzhou
@@ -112,10 +130,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Shanghai
@@ -130,10 +152,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Beijing
@@ -148,10 +174,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Chengdu
@@ -160,7 +190,7 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
     </div>
   </div>
   <div
-    style="margin-top:16px;"
+    style="margin-top:16px"
   >
     <div
       class="ant-radio-group"
@@ -175,10 +205,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
             checked=""
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Hangzhou
@@ -194,10 +228,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
             class="ant-radio-button-input"
             disabled=""
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Shanghai
@@ -212,10 +250,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Beijing
@@ -230,10 +272,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Chengdu
@@ -242,7 +288,7 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
     </div>
   </div>
   <div
-    style="margin-top:16px;"
+    style="margin-top:16px"
   >
     <div
       class="ant-radio-group"
@@ -258,10 +304,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
             class="ant-radio-button-input"
             disabled=""
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Hangzhou
@@ -277,10 +327,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
             class="ant-radio-button-input"
             disabled=""
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Shanghai
@@ -296,10 +350,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
             class="ant-radio-button-input"
             disabled=""
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Beijing
@@ -315,10 +373,14 @@ exports[`renders ./components/radio/demo/radiobutton.md correctly 1`] = `
             class="ant-radio-button-input"
             disabled=""
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Chengdu
@@ -343,10 +405,14 @@ exports[`renders ./components/radio/demo/radiogroup.md correctly 1`] = `
         checked=""
         class="ant-radio-input"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       A
@@ -361,10 +427,14 @@ exports[`renders ./components/radio/demo/radiogroup.md correctly 1`] = `
       <input
         class="ant-radio-input"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       B
@@ -379,10 +449,14 @@ exports[`renders ./components/radio/demo/radiogroup.md correctly 1`] = `
       <input
         class="ant-radio-input"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       C
@@ -397,10 +471,14 @@ exports[`renders ./components/radio/demo/radiogroup.md correctly 1`] = `
       <input
         class="ant-radio-input"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       D
@@ -415,7 +493,7 @@ exports[`renders ./components/radio/demo/radiogroup-more.md correctly 1`] = `
 >
   <label
     class="ant-radio-wrapper ant-radio-wrapper-checked"
-    style="display:block;height:30px;line-height:30px;"
+    style="display:block;height:30px;line-height:30px"
   >
     <span
       class="ant-radio ant-radio-checked"
@@ -424,10 +502,14 @@ exports[`renders ./components/radio/demo/radiogroup-more.md correctly 1`] = `
         checked=""
         class="ant-radio-input"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       Option A
@@ -435,7 +517,7 @@ exports[`renders ./components/radio/demo/radiogroup-more.md correctly 1`] = `
   </label>
   <label
     class="ant-radio-wrapper"
-    style="display:block;height:30px;line-height:30px;"
+    style="display:block;height:30px;line-height:30px"
   >
     <span
       class="ant-radio"
@@ -443,10 +525,14 @@ exports[`renders ./components/radio/demo/radiogroup-more.md correctly 1`] = `
       <input
         class="ant-radio-input"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       Option B
@@ -454,7 +540,7 @@ exports[`renders ./components/radio/demo/radiogroup-more.md correctly 1`] = `
   </label>
   <label
     class="ant-radio-wrapper"
-    style="display:block;height:30px;line-height:30px;"
+    style="display:block;height:30px;line-height:30px"
   >
     <span
       class="ant-radio"
@@ -462,10 +548,14 @@ exports[`renders ./components/radio/demo/radiogroup-more.md correctly 1`] = `
       <input
         class="ant-radio-input"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       Option C
@@ -473,7 +563,7 @@ exports[`renders ./components/radio/demo/radiogroup-more.md correctly 1`] = `
   </label>
   <label
     class="ant-radio-wrapper"
-    style="display:block;height:30px;line-height:30px;"
+    style="display:block;height:30px;line-height:30px"
   >
     <span
       class="ant-radio"
@@ -481,10 +571,14 @@ exports[`renders ./components/radio/demo/radiogroup-more.md correctly 1`] = `
       <input
         class="ant-radio-input"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       More...
@@ -508,10 +602,14 @@ exports[`renders ./components/radio/demo/radiogroup-options.md correctly 1`] = `
           checked=""
           class="ant-radio-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Apple
@@ -526,10 +624,14 @@ exports[`renders ./components/radio/demo/radiogroup-options.md correctly 1`] = `
         <input
           class="ant-radio-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Pear
@@ -544,10 +646,14 @@ exports[`renders ./components/radio/demo/radiogroup-options.md correctly 1`] = `
         <input
           class="ant-radio-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Orange
@@ -567,10 +673,14 @@ exports[`renders ./components/radio/demo/radiogroup-options.md correctly 1`] = `
           checked=""
           class="ant-radio-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Apple
@@ -585,10 +695,14 @@ exports[`renders ./components/radio/demo/radiogroup-options.md correctly 1`] = `
         <input
           class="ant-radio-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Pear
@@ -603,10 +717,14 @@ exports[`renders ./components/radio/demo/radiogroup-options.md correctly 1`] = `
         <input
           class="ant-radio-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Orange
@@ -626,10 +744,14 @@ exports[`renders ./components/radio/demo/radiogroup-options.md correctly 1`] = `
           checked=""
           class="ant-radio-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Apple
@@ -644,10 +766,14 @@ exports[`renders ./components/radio/demo/radiogroup-options.md correctly 1`] = `
         <input
           class="ant-radio-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Pear
@@ -662,10 +788,14 @@ exports[`renders ./components/radio/demo/radiogroup-options.md correctly 1`] = `
         <input
           class="ant-radio-input"
           type="radio"
-        />
+        >
+          
+        </input>
         <span
           class="ant-radio-inner"
-        />
+        >
+          
+        </span>
       </span>
       <span>
         Orange
@@ -690,10 +820,14 @@ exports[`renders ./components/radio/demo/radiogroup-with-name.md correctly 1`] =
         class="ant-radio-input"
         name="radiogroup"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       A
@@ -709,10 +843,14 @@ exports[`renders ./components/radio/demo/radiogroup-with-name.md correctly 1`] =
         class="ant-radio-input"
         name="radiogroup"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       B
@@ -728,10 +866,14 @@ exports[`renders ./components/radio/demo/radiogroup-with-name.md correctly 1`] =
         class="ant-radio-input"
         name="radiogroup"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       C
@@ -747,10 +889,14 @@ exports[`renders ./components/radio/demo/radiogroup-with-name.md correctly 1`] =
         class="ant-radio-input"
         name="radiogroup"
         type="radio"
-      />
+      >
+        
+      </input>
       <span
         class="ant-radio-inner"
-      />
+      >
+        
+      </span>
     </span>
     <span>
       D
@@ -775,10 +921,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
             checked=""
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Hangzhou
@@ -793,10 +943,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Shanghai
@@ -811,10 +965,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Beijing
@@ -829,10 +987,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Chengdu
@@ -841,7 +1003,7 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
     </div>
   </div>
   <div
-    style="margin-top:16px;"
+    style="margin-top:16px"
   >
     <div
       class="ant-radio-group"
@@ -856,10 +1018,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
             checked=""
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Hangzhou
@@ -874,10 +1040,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Shanghai
@@ -892,10 +1062,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Beijing
@@ -910,10 +1084,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Chengdu
@@ -922,7 +1100,7 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
     </div>
   </div>
   <div
-    style="margin-top:16px;"
+    style="margin-top:16px"
   >
     <div
       class="ant-radio-group ant-radio-group-small"
@@ -937,10 +1115,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
             checked=""
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Hangzhou
@@ -955,10 +1137,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Shanghai
@@ -973,10 +1159,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Beijing
@@ -991,10 +1181,14 @@ exports[`renders ./components/radio/demo/size.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           Chengdu

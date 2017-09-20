@@ -23,9 +23,15 @@ exports[`Table renders JSX correctly 1`] = `
               class=""
             >
               <colgroup>
-                <col />
-                <col />
-                <col />
+                <col>
+                  
+                </col>
+                <col>
+                  
+                </col>
+                <col>
+                  
+                </col>
               </colgroup>
               <thead
                 class="ant-table-thead"
@@ -76,8 +82,10 @@ exports[`Table renders JSX correctly 1`] = `
                   >
                     <span
                       class="ant-table-row-indent indent-level-0"
-                      style="padding-left:0px;"
-                    />
+                      style="padding-left:0px"
+                    >
+                      
+                    </span>
                     John
                   </td>
                   <td
@@ -99,8 +107,10 @@ exports[`Table renders JSX correctly 1`] = `
                   >
                     <span
                       class="ant-table-row-indent indent-level-0"
-                      style="padding-left:0px;"
-                    />
+                      style="padding-left:0px"
+                    >
+                      
+                    </span>
                     Jim
                   </td>
                   <td

@@ -3,5 +3,7 @@
 exports[`Icon should render to a <i class="xxx"></i> 1`] = `
 <i
   class="anticon anticon-appstore my-icon-classname"
-/>
+>
+  
+</i>
 `;

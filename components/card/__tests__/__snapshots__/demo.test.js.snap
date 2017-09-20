@@ -3,7 +3,7 @@
 exports[`renders ./components/card/demo/basic.md correctly 1`] = `
 <div
   class="ant-card ant-card-bordered"
-  style="width:300px;"
+  style="width:300px"
 >
   <div>
     <div
@@ -45,11 +45,11 @@ exports[`renders ./components/card/demo/basic.md correctly 1`] = `
 
 exports[`renders ./components/card/demo/border-less.md correctly 1`] = `
 <div
-  style="background:#ECECEC;padding:30px;"
+  style="background:#ECECEC;padding:30px"
 >
   <div
     class="ant-card"
-    style="width:300px;"
+    style="width:300px"
   >
     <div>
       <div
@@ -84,7 +84,7 @@ exports[`renders ./components/card/demo/border-less.md correctly 1`] = `
 exports[`renders ./components/card/demo/flexible-content.md correctly 1`] = `
 <div
   class="ant-card ant-card-bordered ant-card-hovering"
-  style="width:240px;"
+  style="width:240px"
 >
   <div>
     <div
@@ -93,7 +93,9 @@ exports[`renders ./components/card/demo/flexible-content.md correctly 1`] = `
       <img
         alt="example"
         src="https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png"
-      />
+      >
+        
+      </img>
     </div>
     <div
       class="ant-card-body"
@@ -147,43 +149,43 @@ exports[`renders ./components/card/demo/grid-card.md correctly 1`] = `
       <div>
         <div
           class="ant-card-grid"
-          style="width:25%;text-align:center;"
+          style="width:25%;text-align:center"
         >
           Content
         </div>
         <div
           class="ant-card-grid"
-          style="width:25%;text-align:center;"
+          style="width:25%;text-align:center"
         >
           Content
         </div>
         <div
           class="ant-card-grid"
-          style="width:25%;text-align:center;"
+          style="width:25%;text-align:center"
         >
           Content
         </div>
         <div
           class="ant-card-grid"
-          style="width:25%;text-align:center;"
+          style="width:25%;text-align:center"
         >
           Content
         </div>
         <div
           class="ant-card-grid"
-          style="width:25%;text-align:center;"
+          style="width:25%;text-align:center"
         >
           Content
         </div>
         <div
           class="ant-card-grid"
-          style="width:25%;text-align:center;"
+          style="width:25%;text-align:center"
         >
           Content
         </div>
         <div
           class="ant-card-grid"
-          style="width:25%;text-align:center;"
+          style="width:25%;text-align:center"
         >
           Content
         </div>
@@ -195,15 +197,15 @@ exports[`renders ./components/card/demo/grid-card.md correctly 1`] = `
 
 exports[`renders ./components/card/demo/in-column.md correctly 1`] = `
 <div
-  style="background:#ECECEC;padding:30px;"
+  style="background:#ECECEC;padding:30px"
 >
   <div
     class="ant-row"
-    style="margin-left:-8px;margin-right:-8px;"
+    style="margin-left:-8px;margin-right:-8px"
   >
     <div
       class="ant-col-8"
-      style="padding-left:8px;padding-right:8px;"
+      style="padding-left:8px;padding-right:8px"
     >
       <div
         class="ant-card"
@@ -230,7 +232,7 @@ exports[`renders ./components/card/demo/in-column.md correctly 1`] = `
     </div>
     <div
       class="ant-col-8"
-      style="padding-left:8px;padding-right:8px;"
+      style="padding-left:8px;padding-right:8px"
     >
       <div
         class="ant-card"
@@ -257,7 +259,7 @@ exports[`renders ./components/card/demo/in-column.md correctly 1`] = `
     </div>
     <div
       class="ant-col-8"
-      style="padding-left:8px;padding-right:8px;"
+      style="padding-left:8px;padding-right:8px"
     >
       <div
         class="ant-card"
@@ -305,7 +307,7 @@ exports[`renders ./components/card/demo/inner.md correctly 1`] = `
     >
       <div>
         <p
-          style="font-size:14px;color:rgba(0, 0, 0, 0.85);margin-bottom:16px;font-weight:500;"
+          style="font-size:14px;color:rgba(0, 0, 0, 0.85);margin-bottom:16px;font-weight:500"
         >
           Group title
         </p>
@@ -342,7 +344,7 @@ exports[`renders ./components/card/demo/inner.md correctly 1`] = `
         </div>
         <div
           class="ant-card ant-card-bordered ant-card-type-inner"
-          style="margin-top:16px;"
+          style="margin-top:16px"
         >
           <div>
             <div
@@ -381,7 +383,7 @@ exports[`renders ./components/card/demo/inner.md correctly 1`] = `
 exports[`renders ./components/card/demo/loading.md correctly 1`] = `
 <div
   class="ant-card ant-card-loading ant-card-bordered"
-  style="width:34%;"
+  style="width:34%"
 >
   <div>
     <div
@@ -401,51 +403,71 @@ exports[`renders ./components/card/demo/loading.md correctly 1`] = `
       >
         <p
           class="ant-card-loading-block"
-          style="width:94%;"
-        />
-        <p>
-          <span
-            class="ant-card-loading-block"
-            style="width:28%;"
-          />
-          <span
-            class="ant-card-loading-block"
-            style="width:62%;"
-          />
+          style="width:94%"
+        >
+          
         </p>
         <p>
           <span
             class="ant-card-loading-block"
-            style="width:22%;"
-          />
+            style="width:28%"
+          >
+            
+          </span>
           <span
             class="ant-card-loading-block"
-            style="width:66%;"
-          />
+            style="width:62%"
+          >
+            
+          </span>
         </p>
         <p>
           <span
             class="ant-card-loading-block"
-            style="width:56%;"
-          />
+            style="width:22%"
+          >
+            
+          </span>
           <span
             class="ant-card-loading-block"
-            style="width:39%;"
-          />
+            style="width:66%"
+          >
+            
+          </span>
         </p>
         <p>
           <span
             class="ant-card-loading-block"
-            style="width:21%;"
-          />
+            style="width:56%"
+          >
+            
+          </span>
           <span
             class="ant-card-loading-block"
-            style="width:15%;"
-          />
+            style="width:39%"
+          >
+            
+          </span>
+        </p>
+        <p>
           <span
             class="ant-card-loading-block"
-            style="width:40%;"
-          />
+            style="width:21%"
+          >
+            
+          </span>
+          <span
+            class="ant-card-loading-block"
+            style="width:15%"
+          >
+            
+          </span>
+          <span
+            class="ant-card-loading-block"
+            style="width:40%"
+          >
+            
+          </span>
         </p>
       </div>
     </div>
@@ -456,7 +478,7 @@ exports[`renders ./components/card/demo/loading.md correctly 1`] = `
 exports[`renders ./components/card/demo/meta.md correctly 1`] = `
 <div
   class="ant-card ant-card-bordered ant-card-hovering"
-  style="width:300px;"
+  style="width:300px"
 >
   <div>
     <div
@@ -465,7 +487,9 @@ exports[`renders ./components/card/demo/meta.md correctly 1`] = `
       <img
         alt="example"
         src="https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png"
-      />
+      >
+        
+      </img>
     </div>
     <div
       class="ant-card-body"
@@ -485,7 +509,9 @@ exports[`renders ./components/card/demo/meta.md correctly 1`] = `
               >
                 <img
                   src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png"
-                />
+                >
+                  
+                </img>
               </span>
             </div>
             <div
@@ -511,30 +537,36 @@ exports[`renders ./components/card/demo/meta.md correctly 1`] = `
     class="ant-card-actions"
   >
     <li
-      style="width:33.333333333333336%;"
+      style="width:33.333333333333336%"
     >
       <span>
         <i
           class="anticon anticon-setting"
-        />
+        >
+          
+        </i>
       </span>
     </li>
     <li
-      style="width:33.333333333333336%;"
+      style="width:33.333333333333336%"
     >
       <span>
         <i
           class="anticon anticon-edit"
-        />
+        >
+          
+        </i>
       </span>
     </li>
     <li
-      style="width:33.333333333333336%;"
+      style="width:33.333333333333336%"
     >
       <span>
         <i
           class="anticon anticon-ellipsis"
-        />
+        >
+          
+        </i>
       </span>
     </li>
   </ul>
@@ -544,7 +576,7 @@ exports[`renders ./components/card/demo/meta.md correctly 1`] = `
 exports[`renders ./components/card/demo/simple.md correctly 1`] = `
 <div
   class="ant-card ant-card-bordered"
-  style="width:300px;"
+  style="width:300px"
 >
   <div>
     <div
@@ -570,7 +602,7 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
 <div>
   <div
     class="ant-card ant-card-bordered ant-card-contain-tabs"
-    style="width:100%;"
+    style="width:100%"
   >
     <div>
       <div
@@ -607,7 +639,9 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
               >
                 <span
                   class="ant-tabs-tab-prev-icon"
-                />
+                >
+                  
+                </span>
               </span>
               <span
                 class="ant-tabs-tab-next ant-tabs-tab-btn-disabled"
@@ -615,7 +649,9 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
               >
                 <span
                   class="ant-tabs-tab-next-icon"
-                />
+                >
+                  
+                </span>
               </span>
               <div
                 class="ant-tabs-nav-wrap"
@@ -628,7 +664,9 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
                   >
                     <div
                       class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
-                    />
+                    >
+                      
+                    </div>
                     <div
                       aria-disabled="false"
                       aria-selected="true"
@@ -652,18 +690,22 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
           </div>
           <div
             class="ant-tabs-content ant-tabs-content-animated"
-            style="margin-left:0%;"
+            style="margin-left:0%"
           >
             <div
               aria-hidden="false"
               class="ant-tabs-tabpane ant-tabs-tabpane-active"
               role="tabpanel"
-            />
+            >
+              
+            </div>
             <div
               aria-hidden="true"
               class="ant-tabs-tabpane ant-tabs-tabpane-inactive"
               role="tabpanel"
-            />
+            >
+              
+            </div>
           </div>
         </div>
       </div>
@@ -678,11 +720,15 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
       </div>
     </div>
   </div>
-  <br />
-  <br />
+  <br>
+    
+  </br>
+  <br>
+    
+  </br>
   <div
     class="ant-card ant-card-bordered ant-card-contain-tabs"
-    style="width:100%;"
+    style="width:100%"
   >
     <div>
       <div
@@ -705,7 +751,9 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
               >
                 <span
                   class="ant-tabs-tab-prev-icon"
-                />
+                >
+                  
+                </span>
               </span>
               <span
                 class="ant-tabs-tab-next ant-tabs-tab-btn-disabled"
@@ -713,7 +761,9 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
               >
                 <span
                   class="ant-tabs-tab-next-icon"
-                />
+                >
+                  
+                </span>
               </span>
               <div
                 class="ant-tabs-nav-wrap"
@@ -726,7 +776,9 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
                   >
                     <div
                       class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
-                    />
+                    >
+                      
+                    </div>
                     <div
                       aria-disabled="false"
                       aria-selected="true"
@@ -758,23 +810,29 @@ exports[`renders ./components/card/demo/tabs.md correctly 1`] = `
           </div>
           <div
             class="ant-tabs-content ant-tabs-content-animated"
-            style="margin-left:0%;"
+            style="margin-left:0%"
           >
             <div
               aria-hidden="false"
               class="ant-tabs-tabpane ant-tabs-tabpane-active"
               role="tabpanel"
-            />
+            >
+              
+            </div>
             <div
               aria-hidden="true"
               class="ant-tabs-tabpane ant-tabs-tabpane-inactive"
               role="tabpanel"
-            />
+            >
+              
+            </div>
             <div
               aria-hidden="true"
               class="ant-tabs-tabpane ant-tabs-tabpane-inactive"
               role="tabpanel"
-            />
+            >
+              
+            </div>
           </div>
         </div>
       </div>

@@ -6,7 +6,7 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
     class="change-locale"
   >
     <span
-      style="margin-right:16px;"
+      style="margin-right:16px"
     >
       Change locale of components: 
     </span>
@@ -23,10 +23,14 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
             checked=""
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           English
@@ -41,10 +45,14 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
           <input
             class="ant-radio-button-input"
             type="radio"
-          />
+          >
+            
+          </input>
           <span
             class="ant-radio-button-inner"
-          />
+          >
+            
+          </span>
         </span>
         <span>
           中文
@@ -70,7 +78,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
         >
           <a
             class="ant-pagination-item-link"
-          />
+          >
+            
+          </a>
         </li>
         <li
           class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -125,7 +135,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
         >
           <a
             class="ant-pagination-item-link"
-          />
+          >
+            
+          </a>
         </li>
         <li
           class="ant-pagination-options"
@@ -147,7 +159,7 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
               >
                 <div
                   class="ant-select-selection-selected-value"
-                  style="display:block;opacity:1;"
+                  style="display:block;opacity:1"
                   title="10 / page"
                 >
                   10 / page
@@ -155,10 +167,12 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
               </div>
               <span
                 class="ant-select-arrow"
-                style="user-select:none;-webkit-user-select:none;"
+                style="user-select:none;-webkit-user-select:none"
                 unselectable="unselectable"
               >
-                <b />
+                <b>
+                  
+                </b>
               </span>
             </div>
           </div>
@@ -170,7 +184,7 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
     >
       <div
         class="ant-select ant-select-enabled"
-        style="width:200px;"
+        style="width:200px"
       >
         <div
           aria-autocomplete="list"
@@ -186,7 +200,7 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
           >
             <div
               class="ant-select-search ant-select-search--inline"
-              style="display:none;"
+              style="display:none"
             >
               <div
                 class="ant-select-search__field__wrap"
@@ -195,7 +209,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                   autocomplete="off"
                   class="ant-select-search__field"
                   value=""
-                />
+                >
+                  
+                </input>
                 <span
                   class="ant-select-search__field__mirror"
                 >
@@ -206,10 +222,12 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            style="user-select:none;-webkit-user-select:none;"
+            style="user-select:none;-webkit-user-select:none"
             unselectable="unselectable"
           >
-            <b />
+            <b>
+              
+            </b>
           </span>
         </div>
       </div>
@@ -222,10 +240,14 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
             placeholder="Select date"
             readonly=""
             value=""
-          />
+          >
+            
+          </input>
           <span
             class="ant-calendar-picker-icon"
-          />
+          >
+            
+          </span>
         </div>
       </span>
       <span
@@ -237,14 +259,18 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
           readonly=""
           type="text"
           value=""
-        />
+        >
+          
+        </input>
         <span
           class="ant-time-picker-icon"
-        />
+        >
+          
+        </span>
       </span>
       <span
         class="ant-calendar-picker"
-        style="width:200px;"
+        style="width:200px"
       >
         <span
           class="ant-calendar-picker-input ant-input"
@@ -254,7 +280,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
             placeholder="Start date"
             readonly=""
             value=""
-          />
+          >
+            
+          </input>
           <span
             class="ant-calendar-range-picker-separator"
           >
@@ -265,10 +293,14 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
             placeholder="End date"
             readonly=""
             value=""
-          />
+          >
+            
+          </input>
           <span
             class="ant-calendar-picker-icon"
-          />
+          >
+            
+          </span>
         </span>
       </span>
     </div>
@@ -326,10 +358,14 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                 <input
                   class="ant-checkbox-input"
                   type="checkbox"
-                />
+                >
+                  
+                </input>
                 <span
                   class="ant-checkbox-inner"
-                />
+                >
+                  
+                </span>
               </span>
             </label>
             <span
@@ -340,7 +376,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
               </span>
               <span
                 class="ant-transfer-list-header-title"
-              />
+              >
+                
+              </span>
             </span>
           </div>
           <div
@@ -355,19 +393,25 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                   placeholder="Search here"
                   type="text"
                   value=""
-                />
+                >
+                  
+                </input>
                 <span
                   class="ant-transfer-list-search-action"
                 >
                   <i
                     class="anticon anticon-search"
-                  />
+                  >
+                    
+                  </i>
                 </span>
               </div>
             </div>
             <ul
               class="ant-transfer-list-content"
-            />
+            >
+              
+            </ul>
             <div
               class="ant-transfer-list-body-not-found"
             >
@@ -386,7 +430,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
             <span>
               <i
                 class="anticon anticon-left"
-              />
+              >
+                
+              </i>
             </span>
           </button>
           <button
@@ -397,7 +443,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
             <span>
               <i
                 class="anticon anticon-right"
-              />
+              >
+                
+              </i>
             </span>
           </button>
         </div>
@@ -416,10 +464,14 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                 <input
                   class="ant-checkbox-input"
                   type="checkbox"
-                />
+                >
+                  
+                </input>
                 <span
                   class="ant-checkbox-inner"
-                />
+                >
+                  
+                </span>
               </span>
             </label>
             <span
@@ -430,7 +482,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
               </span>
               <span
                 class="ant-transfer-list-header-title"
-              />
+              >
+                
+              </span>
             </span>
           </div>
           <div
@@ -445,19 +499,25 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                   placeholder="Search here"
                   type="text"
                   value=""
-                />
+                >
+                  
+                </input>
                 <span
                   class="ant-transfer-list-search-action"
                 >
                   <i
                     class="anticon anticon-search"
-                  />
+                  >
+                    
+                  </i>
                 </span>
               </div>
             </div>
             <ul
               class="ant-transfer-list-content"
-            />
+            >
+              
+            </ul>
             <div
               class="ant-transfer-list-body-not-found"
             >
@@ -468,7 +528,7 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
       </div>
     </div>
     <div
-      style="width:319px;border:1px solid #d9d9d9;border-radius:4px;"
+      style="width:319px;border:1px solid #d9d9d9;border-radius:4px"
     >
       <div
         class=""
@@ -493,7 +553,7 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
               >
                 <div
                   class="ant-select-selection-selected-value"
-                  style="display:block;opacity:1;"
+                  style="display:block;opacity:1"
                   title="2016"
                 >
                   2016
@@ -501,10 +561,12 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
               </div>
               <span
                 class="ant-select-arrow"
-                style="user-select:none;-webkit-user-select:none;"
+                style="user-select:none;-webkit-user-select:none"
                 unselectable="unselectable"
               >
-                <b />
+                <b>
+                  
+                </b>
               </span>
             </div>
           </div>
@@ -525,7 +587,7 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
               >
                 <div
                   class="ant-select-selection-selected-value"
-                  style="display:block;opacity:1;"
+                  style="display:block;opacity:1"
                   title="Nov"
                 >
                   Nov
@@ -533,10 +595,12 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
               </div>
               <span
                 class="ant-select-arrow"
-                style="user-select:none;-webkit-user-select:none;"
+                style="user-select:none;-webkit-user-select:none"
                 unselectable="unselectable"
               >
-                <b />
+                <b>
+                  
+                </b>
               </span>
             </div>
           </div>
@@ -553,10 +617,14 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                   checked=""
                   class="ant-radio-button-input"
                   type="radio"
-                />
+                >
+                  
+                </input>
                 <span
                   class="ant-radio-button-inner"
-                />
+                >
+                  
+                </span>
               </span>
               <span>
                 Month
@@ -571,10 +639,14 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                 <input
                   class="ant-radio-button-input"
                   type="radio"
-                />
+                >
+                  
+                </input>
                 <span
                   class="ant-radio-button-inner"
-                />
+                >
+                  
+                </span>
               </span>
               <span>
                 Year
@@ -699,7 +771,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -717,7 +791,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -735,7 +811,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -753,7 +831,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -771,7 +851,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -789,7 +871,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -807,7 +891,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                 </tr>
@@ -830,7 +916,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -848,7 +936,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -866,7 +956,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -884,7 +976,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -902,7 +996,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -920,7 +1016,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -938,7 +1036,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                 </tr>
@@ -961,7 +1061,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -979,7 +1081,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -997,7 +1101,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1015,7 +1121,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1033,7 +1141,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1051,7 +1161,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1069,7 +1181,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                 </tr>
@@ -1092,7 +1206,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1110,7 +1226,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1128,7 +1246,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1146,7 +1266,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1164,7 +1286,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1182,7 +1306,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1200,7 +1326,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                 </tr>
@@ -1223,7 +1351,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1241,7 +1371,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1259,7 +1391,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1277,7 +1411,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1295,7 +1431,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1313,7 +1451,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1331,7 +1471,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                 </tr>
@@ -1354,7 +1496,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1372,7 +1516,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1390,7 +1536,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1408,7 +1556,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1426,7 +1576,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1444,7 +1596,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                   <td
@@ -1462,7 +1616,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                       </div>
                       <div
                         class="ant-fullcalendar-content"
-                      />
+                      >
+                        
+                      </div>
                     </div>
                   </td>
                 </tr>
@@ -1497,8 +1653,12 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                     class=""
                   >
                     <colgroup>
-                      <col />
-                      <col />
+                      <col>
+                        
+                      </col>
+                      <col>
+                        
+                      </col>
                     </colgroup>
                     <thead
                       class="ant-table-thead"
@@ -1512,7 +1672,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                             <i
                               class="anticon anticon-filter ant-dropdown-trigger"
                               title="Filter menu"
-                            />
+                            >
+                              
+                            </i>
                           </span>
                         </th>
                         <th
@@ -1526,7 +1688,9 @@ exports[`renders ./components/locale-provider/demo/all.md correctly 1`] = `
                     </thead>
                     <tbody
                       class="ant-table-tbody"
-                    />
+                    >
+                      
+                    </tbody>
                   </table>
                 </div>
                 <div
@@ -1558,7 +1722,9 @@ exports[`renders ./components/locale-provider/demo/basic.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -1613,7 +1779,9 @@ exports[`renders ./components/locale-provider/demo/basic.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -1635,7 +1803,7 @@ exports[`renders ./components/locale-provider/demo/basic.md correctly 1`] = `
           >
             <div
               class="ant-select-selection-selected-value"
-              style="display:block;opacity:1;"
+              style="display:block;opacity:1"
               title="10 / page"
             >
               10 / page
@@ -1643,10 +1811,12 @@ exports[`renders ./components/locale-provider/demo/basic.md correctly 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            style="user-select:none;-webkit-user-select:none;"
+            style="user-select:none;-webkit-user-select:none"
             unselectable="unselectable"
           >
-            <b />
+            <b>
+              
+            </b>
           </span>
         </div>
       </div>

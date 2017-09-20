@@ -39,7 +39,9 @@ exports[`Table.filter renders filter correctly 1`] = `
               class=""
             >
               <colgroup>
-                <col />
+                <col>
+                  
+                </col>
               </colgroup>
               <thead
                 class="ant-table-thead"
@@ -53,7 +55,9 @@ exports[`Table.filter renders filter correctly 1`] = `
                       <i
                         class="anticon anticon-filter ant-dropdown-trigger"
                         title="筛选"
-                      />
+                      >
+                        
+                      </i>
                     </span>
                   </th>
                 </tr>
@@ -69,8 +73,10 @@ exports[`Table.filter renders filter correctly 1`] = `
                   >
                     <span
                       class="ant-table-row-indent indent-level-0"
-                      style="padding-left:0px;"
-                    />
+                      style="padding-left:0px"
+                    >
+                      
+                    </span>
                     Jack
                   </td>
                 </tr>
@@ -82,8 +88,10 @@ exports[`Table.filter renders filter correctly 1`] = `
                   >
                     <span
                       class="ant-table-row-indent indent-level-0"
-                      style="padding-left:0px;"
-                    />
+                      style="padding-left:0px"
+                    >
+                      
+                    </span>
                     Lucy
                   </td>
                 </tr>
@@ -95,8 +103,10 @@ exports[`Table.filter renders filter correctly 1`] = `
                   >
                     <span
                       class="ant-table-row-indent indent-level-0"
-                      style="padding-left:0px;"
-                    />
+                      style="padding-left:0px"
+                    >
+                      
+                    </span>
                     Tom
                   </td>
                 </tr>
@@ -108,8 +118,10 @@ exports[`Table.filter renders filter correctly 1`] = `
                   >
                     <span
                       class="ant-table-row-indent indent-level-0"
-                      style="padding-left:0px;"
-                    />
+                      style="padding-left:0px"
+                    >
+                      
+                    </span>
                     Jerry
                   </td>
                 </tr>

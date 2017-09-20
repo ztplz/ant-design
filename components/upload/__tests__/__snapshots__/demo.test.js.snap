@@ -6,8 +6,10 @@ exports[`renders ./components/upload/demo/avatar.md correctly 1`] = `
 >
   <div
     class="ant-upload ant-upload-select ant-upload-select-text"
-    style="display:;"
-  />
+    style="display:"
+  >
+    
+  </div>
 </span>
 `;
 
@@ -17,11 +19,15 @@ exports[`renders ./components/upload/demo/basic.md correctly 1`] = `
 >
   <div
     class="ant-upload ant-upload-select ant-upload-select-text"
-    style="display:;"
-  />
+    style="display:"
+  >
+    
+  </div>
   <div
     class="ant-upload-list ant-upload-list-text"
-  />
+  >
+    
+  </div>
 </span>
 `;
 
@@ -31,8 +37,10 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
 >
   <div
     class="ant-upload ant-upload-select ant-upload-select-text"
-    style="display:;"
-  />
+    style="display:"
+  >
+    
+  </div>
   <div
     class="ant-upload-list ant-upload-list-text"
   >
@@ -45,7 +53,9 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
         <span>
           <i
             class="anticon anticon-paper-clip"
-          />
+          >
+            
+          </i>
           <a
             class="ant-upload-list-item-name"
             href="http://www.baidu.com/xxx.png"
@@ -60,7 +70,9 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
       <i
         class="anticon anticon-cross"
         title="删除文件"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-upload-list-item ant-upload-list-item-done"
@@ -71,7 +83,9 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
         <span>
           <i
             class="anticon anticon-paper-clip"
-          />
+          >
+            
+          </i>
           <a
             class="ant-upload-list-item-name"
             href="http://www.baidu.com/yyy.png"
@@ -86,7 +100,9 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
       <i
         class="anticon anticon-cross"
         title="删除文件"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-upload-list-item ant-upload-list-item-error"
@@ -97,7 +113,9 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
         <span>
           <i
             class="anticon anticon-paper-clip"
-          />
+          >
+            
+          </i>
           <a
             class="ant-upload-list-item-name"
             href="http://www.baidu.com/zzz.png"
@@ -112,7 +130,9 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
       <i
         class="anticon anticon-cross"
         title="删除文件"
-      />
+      >
+        
+      </i>
     </div>
   </div>
 </span>
@@ -120,14 +140,16 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
 
 exports[`renders ./components/upload/demo/drag.md correctly 1`] = `
 <div
-  style="margin-top:16px;height:180px;"
+  style="margin-top:16px;height:180px"
 >
   <span
     class=""
   >
     <div
       class="ant-upload ant-upload-drag"
-    />
+    >
+      
+    </div>
   </span>
 </div>
 `;
@@ -138,8 +160,10 @@ exports[`renders ./components/upload/demo/fileList.md correctly 1`] = `
 >
   <div
     class="ant-upload ant-upload-select ant-upload-select-text"
-    style="display:;"
-  />
+    style="display:"
+  >
+    
+  </div>
   <div
     class="ant-upload-list ant-upload-list-text"
   >
@@ -152,7 +176,9 @@ exports[`renders ./components/upload/demo/fileList.md correctly 1`] = `
         <span>
           <i
             class="anticon anticon-paper-clip"
-          />
+          >
+            
+          </i>
           <a
             class="ant-upload-list-item-name"
             href="http://www.baidu.com/xxx.png"
@@ -167,7 +193,9 @@ exports[`renders ./components/upload/demo/fileList.md correctly 1`] = `
       <i
         class="anticon anticon-cross"
         title="删除文件"
-      />
+      >
+        
+      </i>
     </div>
   </div>
 </span>
@@ -199,7 +227,9 @@ exports[`renders ./components/upload/demo/picture-card.md correctly 1`] = `
               <img
                 alt="xxx.png"
                 src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png"
-              />
+              >
+                
+              </img>
             </a>
             <a
               class="ant-upload-list-item-name"
@@ -223,19 +253,25 @@ exports[`renders ./components/upload/demo/picture-card.md correctly 1`] = `
           >
             <i
               class="anticon anticon-eye-o"
-            />
+            >
+              
+            </i>
           </a>
           <i
             class="anticon anticon-delete"
             title="删除文件"
-          />
+          >
+            
+          </i>
         </span>
       </div>
     </div>
     <div
       class="ant-upload ant-upload-select ant-upload-select-picture-card"
-      style="display:;"
-    />
+      style="display:"
+    >
+      
+    </div>
   </span>
 </div>
 `;
@@ -247,8 +283,10 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
   >
     <div
       class="ant-upload ant-upload-select ant-upload-select-picture"
-      style="display:;"
-    />
+      style="display:"
+    >
+      
+    </div>
     <div
       class="ant-upload-list ant-upload-list-picture"
     >
@@ -268,7 +306,9 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
               <img
                 alt="xxx.png"
                 src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png"
-              />
+              >
+                
+              </img>
             </a>
             <a
               class="ant-upload-list-item-name"
@@ -284,7 +324,9 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
         <i
           class="anticon anticon-cross"
           title="删除文件"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-upload-list-item ant-upload-list-item-done"
@@ -302,7 +344,9 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
               <img
                 alt="yyy.png"
                 src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png"
-              />
+              >
+                
+              </img>
             </a>
             <a
               class="ant-upload-list-item-name"
@@ -318,19 +362,27 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
         <i
           class="anticon anticon-cross"
           title="删除文件"
-        />
+        >
+          
+        </i>
       </div>
     </div>
   </span>
-  <br />
-  <br />
+  <br>
+    
+  </br>
+  <br>
+    
+  </br>
   <span
     class="upload-list-inline"
   >
     <div
       class="ant-upload ant-upload-select ant-upload-select-picture"
-      style="display:;"
-    />
+      style="display:"
+    >
+      
+    </div>
     <div
       class="ant-upload-list ant-upload-list-picture"
     >
@@ -350,7 +402,9 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
               <img
                 alt="xxx.png"
                 src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png"
-              />
+              >
+                
+              </img>
             </a>
             <a
               class="ant-upload-list-item-name"
@@ -366,7 +420,9 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
         <i
           class="anticon anticon-cross"
           title="删除文件"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-upload-list-item ant-upload-list-item-done"
@@ -384,7 +440,9 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
               <img
                 alt="yyy.png"
                 src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png"
-              />
+              >
+                
+              </img>
             </a>
             <a
               class="ant-upload-list-item-name"
@@ -400,7 +458,9 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
         <i
           class="anticon anticon-cross"
           title="删除文件"
-        />
+        >
+          
+        </i>
       </div>
     </div>
   </span>
@@ -414,11 +474,15 @@ exports[`renders ./components/upload/demo/upload-manually.md correctly 1`] = `
   >
     <div
       class="ant-upload ant-upload-select ant-upload-select-text"
-      style="display:;"
-    />
+      style="display:"
+    >
+      
+    </div>
     <div
       class="ant-upload-list ant-upload-list-text"
-    />
+    >
+      
+    </div>
   </span>
   <button
     class="ant-btn upload-demo-start ant-btn-primary"

@@ -16,10 +16,14 @@ exports[`List should render correctly 1`] = `
         <input
           class="ant-checkbox-input"
           type="checkbox"
-        />
+        >
+          
+        </input>
         <span
           class="ant-checkbox-inner"
-        />
+        >
+          
+        </span>
       </span>
     </label>
     <span
@@ -30,7 +34,9 @@ exports[`List should render correctly 1`] = `
       </span>
       <span
         class="ant-transfer-list-header-title"
-      />
+      >
+        
+      </span>
     </span>
   </div>
   <div
@@ -52,13 +58,19 @@ exports[`List should render correctly 1`] = `
               checked=""
               class="ant-checkbox-input"
               type="checkbox"
-            />
+            >
+              
+            </input>
             <span
               class="ant-checkbox-inner"
-            />
+            >
+              
+            </span>
           </span>
         </label>
-        <span />
+        <span>
+          
+        </span>
       </li>
       <li
         class="ant-transfer-list-content-item"
@@ -72,13 +84,19 @@ exports[`List should render correctly 1`] = `
             <input
               class="ant-checkbox-input"
               type="checkbox"
-            />
+            >
+              
+            </input>
             <span
               class="ant-checkbox-inner"
-            />
+            >
+              
+            </span>
           </span>
         </label>
-        <span />
+        <span>
+          
+        </span>
       </li>
       <li
         class="ant-transfer-list-content-item ant-transfer-list-content-item-disabled"
@@ -93,13 +111,19 @@ exports[`List should render correctly 1`] = `
               class="ant-checkbox-input"
               disabled=""
               type="checkbox"
-            />
+            >
+              
+            </input>
             <span
               class="ant-checkbox-inner"
-            />
+            >
+              
+            </span>
           </span>
         </label>
-        <span />
+        <span>
+          
+        </span>
       </li>
     </ul>
     <div

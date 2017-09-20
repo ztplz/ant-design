@@ -13,7 +13,9 @@ exports[`renders ./components/pagination/demo/basic.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -68,7 +70,9 @@ exports[`renders ./components/pagination/demo/basic.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
 </ul>
 `;
@@ -86,7 +90,9 @@ exports[`renders ./components/pagination/demo/changer.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-1"
@@ -140,7 +146,9 @@ exports[`renders ./components/pagination/demo/changer.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-50"
@@ -159,7 +167,9 @@ exports[`renders ./components/pagination/demo/changer.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-options"
@@ -181,7 +191,7 @@ exports[`renders ./components/pagination/demo/changer.md correctly 1`] = `
         >
           <div
             class="ant-select-selection-selected-value"
-            style="display:block;opacity:1;"
+            style="display:block;opacity:1"
             title="10 条/页"
           >
             10 条/页
@@ -189,10 +199,12 @@ exports[`renders ./components/pagination/demo/changer.md correctly 1`] = `
         </div>
         <span
           class="ant-select-arrow"
-          style="user-select:none;-webkit-user-select:none;"
+          style="user-select:none;-webkit-user-select:none"
           unselectable="unselectable"
         >
-          <b />
+          <b>
+            
+          </b>
         </span>
       </div>
     </div>
@@ -213,7 +225,9 @@ exports[`renders ./components/pagination/demo/controlled.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-1"
@@ -268,7 +282,9 @@ exports[`renders ./components/pagination/demo/controlled.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
 </ul>
 `;
@@ -340,7 +356,9 @@ exports[`renders ./components/pagination/demo/itemRender.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-50"
@@ -377,7 +395,9 @@ exports[`renders ./components/pagination/demo/jump.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-1"
@@ -431,7 +451,9 @@ exports[`renders ./components/pagination/demo/jump.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-50"
@@ -450,7 +472,9 @@ exports[`renders ./components/pagination/demo/jump.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-options"
@@ -462,7 +486,9 @@ exports[`renders ./components/pagination/demo/jump.md correctly 1`] = `
       <input
         type="text"
         value=""
-      />
+      >
+        
+      </input>
       页
     </div>
   </li>
@@ -483,7 +509,9 @@ exports[`renders ./components/pagination/demo/mini.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -538,7 +566,9 @@ exports[`renders ./components/pagination/demo/mini.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
   </ul>
   <ul
@@ -553,7 +583,9 @@ exports[`renders ./components/pagination/demo/mini.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -608,7 +640,9 @@ exports[`renders ./components/pagination/demo/mini.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -630,7 +664,7 @@ exports[`renders ./components/pagination/demo/mini.md correctly 1`] = `
           >
             <div
               class="ant-select-selection-selected-value"
-              style="display:block;opacity:1;"
+              style="display:block;opacity:1"
               title="10 条/页"
             >
               10 条/页
@@ -638,10 +672,12 @@ exports[`renders ./components/pagination/demo/mini.md correctly 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            style="user-select:none;-webkit-user-select:none;"
+            style="user-select:none;-webkit-user-select:none"
             unselectable="unselectable"
           >
-            <b />
+            <b>
+              
+            </b>
           </span>
         </div>
       </div>
@@ -652,7 +688,9 @@ exports[`renders ./components/pagination/demo/mini.md correctly 1`] = `
         <input
           type="text"
           value=""
-        />
+        >
+          
+        </input>
         页
       </div>
     </li>
@@ -674,7 +712,9 @@ exports[`renders ./components/pagination/demo/mini.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -729,7 +769,9 @@ exports[`renders ./components/pagination/demo/mini.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
   </ul>
 </div>
@@ -748,7 +790,9 @@ exports[`renders ./components/pagination/demo/more.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-1"
@@ -766,7 +810,9 @@ exports[`renders ./components/pagination/demo/more.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-4 ant-pagination-item-after-jump-prev"
@@ -820,7 +866,9 @@ exports[`renders ./components/pagination/demo/more.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-item ant-pagination-item-50"
@@ -839,7 +887,9 @@ exports[`renders ./components/pagination/demo/more.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
 </ul>
 `;
@@ -856,7 +906,9 @@ exports[`renders ./components/pagination/demo/simple.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
   <li
     class="ant-pagination-simple-pager"
@@ -866,7 +918,9 @@ exports[`renders ./components/pagination/demo/simple.md correctly 1`] = `
       size="3"
       type="text"
       value="2"
-    />
+    >
+      
+    </input>
     <span
       class="ant-pagination-slash"
     >
@@ -882,7 +936,9 @@ exports[`renders ./components/pagination/demo/simple.md correctly 1`] = `
   >
     <a
       class="ant-pagination-item-link"
-    />
+    >
+      
+    </a>
   </li>
 </ul>
 `;
@@ -906,7 +962,9 @@ exports[`renders ./components/pagination/demo/total.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -961,10 +1019,14 @@ exports[`renders ./components/pagination/demo/total.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
   </ul>
-  <br />
+  <br>
+    
+  </br>
   <ul
     class="ant-pagination "
     unselectable="unselectable"
@@ -982,7 +1044,9 @@ exports[`renders ./components/pagination/demo/total.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -1037,7 +1101,9 @@ exports[`renders ./components/pagination/demo/total.md correctly 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        
+      </a>
     </li>
   </ul>
 </div>

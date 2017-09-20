@@ -3,11 +3,15 @@
 exports[`Grid should render Col 1`] = `
 <div
   class="ant-col-2"
-/>
+>
+  
+</div>
 `;
 
 exports[`Grid should render Row 1`] = `
 <div
   class="ant-row"
-/>
+>
+  
+</div>
 `;

@@ -16,7 +16,9 @@ exports[`renders ./components/affix/demo/basic.md correctly 1`] = `
       </button>
     </div>
   </div>
-  <br />
+  <br>
+    
+  </br>
   <div>
     <div
       class=""

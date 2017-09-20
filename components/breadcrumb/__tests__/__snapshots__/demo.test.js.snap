@@ -224,7 +224,9 @@ exports[`renders ./components/breadcrumb/demo/withIcon.md correctly 1`] = `
     >
       <i
         class="anticon anticon-home"
-      />
+      >
+        
+      </i>
     </a>
     <span
       class="ant-breadcrumb-separator"
@@ -239,7 +241,9 @@ exports[`renders ./components/breadcrumb/demo/withIcon.md correctly 1`] = `
     >
       <i
         class="anticon anticon-user"
-      />
+      >
+        
+      </i>
       <span>
         Application List
       </span>

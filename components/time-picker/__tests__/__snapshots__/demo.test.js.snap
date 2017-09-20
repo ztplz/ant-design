@@ -11,10 +11,14 @@ exports[`renders ./components/time-picker/demo/12hours.md correctly 1`] = `
       readonly=""
       type="text"
       value=""
-    />
+    >
+      
+    </input>
     <span
       class="ant-time-picker-icon"
-    />
+    >
+      
+    </span>
   </span>
   <span
     class="ant-time-picker "
@@ -25,10 +29,14 @@ exports[`renders ./components/time-picker/demo/12hours.md correctly 1`] = `
       readonly=""
       type="text"
       value=""
-    />
+    >
+      
+    </input>
     <span
       class="ant-time-picker-icon"
-    />
+    >
+      
+    </span>
   </span>
   <span
     class="ant-time-picker "
@@ -39,10 +47,14 @@ exports[`renders ./components/time-picker/demo/12hours.md correctly 1`] = `
       readonly=""
       type="text"
       value=""
-    />
+    >
+      
+    </input>
     <span
       class="ant-time-picker-icon"
-    />
+    >
+      
+    </span>
   </span>
 </div>
 `;
@@ -57,10 +69,14 @@ exports[`renders ./components/time-picker/demo/addon.md correctly 1`] = `
     readonly=""
     type="text"
     value=""
-  />
+  >
+    
+  </input>
   <span
     class="ant-time-picker-icon"
-  />
+  >
+    
+  </span>
 </span>
 `;
 
@@ -74,10 +90,14 @@ exports[`renders ./components/time-picker/demo/basic.md correctly 1`] = `
     readonly=""
     type="text"
     value=""
-  />
+  >
+    
+  </input>
   <span
     class="ant-time-picker-icon"
-  />
+  >
+    
+  </span>
 </span>
 `;
 
@@ -92,10 +112,14 @@ exports[`renders ./components/time-picker/demo/disable-options.md correctly 1`] 
       readonly=""
       type="text"
       value=""
-    />
+    >
+      
+    </input>
     <span
       class="ant-time-picker-icon"
-    />
+    >
+      
+    </span>
   </span>
   <span
     class="ant-time-picker "
@@ -106,10 +130,14 @@ exports[`renders ./components/time-picker/demo/disable-options.md correctly 1`] 
       readonly=""
       type="text"
       value=""
-    />
+    >
+      
+    </input>
     <span
       class="ant-time-picker-icon"
-    />
+    >
+      
+    </span>
   </span>
 </div>
 `;
@@ -125,10 +153,14 @@ exports[`renders ./components/time-picker/demo/disabled.md correctly 1`] = `
     readonly=""
     type="text"
     value="12:08:23"
-  />
+  >
+    
+  </input>
   <span
     class="ant-time-picker-icon"
-  />
+  >
+    
+  </span>
 </span>
 `;
 
@@ -142,10 +174,14 @@ exports[`renders ./components/time-picker/demo/hide-column.md correctly 1`] = `
     readonly=""
     type="text"
     value="12:08"
-  />
+  >
+    
+  </input>
   <span
     class="ant-time-picker-icon"
-  />
+  >
+    
+  </span>
 </span>
 `;
 
@@ -160,10 +196,14 @@ exports[`renders ./components/time-picker/demo/size.md correctly 1`] = `
       readonly=""
       type="text"
       value="12:08:23"
-    />
+    >
+      
+    </input>
     <span
       class="ant-time-picker-icon"
-    />
+    >
+      
+    </span>
   </span>
   <span
     class="ant-time-picker "
@@ -174,10 +214,14 @@ exports[`renders ./components/time-picker/demo/size.md correctly 1`] = `
       readonly=""
       type="text"
       value="12:08:23"
-    />
+    >
+      
+    </input>
     <span
       class="ant-time-picker-icon"
-    />
+    >
+      
+    </span>
   </span>
   <span
     class="ant-time-picker ant-time-picker-small"
@@ -188,10 +232,14 @@ exports[`renders ./components/time-picker/demo/size.md correctly 1`] = `
       readonly=""
       type="text"
       value="12:08:23"
-    />
+    >
+      
+    </input>
     <span
       class="ant-time-picker-icon"
-    />
+    >
+      
+    </span>
   </span>
 </div>
 `;
@@ -206,9 +254,13 @@ exports[`renders ./components/time-picker/demo/value.md correctly 1`] = `
     readonly=""
     type="text"
     value=""
-  />
+  >
+    
+  </input>
   <span
     class="ant-time-picker-icon"
-  />
+  >
+    
+  </span>
 </span>
 `;

@@ -84,11 +84,11 @@ describe('RangePicker', () => {
         open
       />
     );
-    let rangeCalendarWrapper = mount(wrapper.find('Trigger').node.getComponent());
+    let rangeCalendarWrapper = mount(wrapper.find('Trigger').instance().getComponent());
     rangeCalendarWrapper.find('.ant-calendar-cell').at(15).simulate('click').simulate('click');
     wrapper.find('.ant-calendar-picker-clear').simulate('click');
     wrapper.find('.ant-calendar-picker-input').simulate('click');
-    rangeCalendarWrapper = mount(wrapper.find('Trigger').node.getComponent());
+    rangeCalendarWrapper = mount(wrapper.find('Trigger').instance().getComponent());
     expect(() => rangeCalendarWrapper.find('.ant-calendar-cell').at(15).simulate('click').simulate('click'))
       .not.toThrow();
   });

@@ -12,14 +12,18 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -30,14 +34,18 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -48,14 +56,18 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -66,14 +78,18 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -84,14 +100,18 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
 </ul>
@@ -110,14 +130,18 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
     </li>
     <li
@@ -128,14 +152,18 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
     </li>
     <li
@@ -146,14 +174,18 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
     </li>
     <li
@@ -164,14 +196,18 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
     </li>
     <li
@@ -182,21 +218,27 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-heart"
-        />
+        >
+          
+        </i>
       </div>
     </li>
   </ul>
-  <br />
+  <br>
+    
+  </br>
   <ul
     class="ant-rate"
-    style="font-size:36px;"
+    style="font-size:36px"
   >
     <li
       class="ant-rate-star ant-rate-star-zero"
@@ -269,7 +311,9 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
       </div>
     </li>
   </ul>
-  <br />
+  <br>
+    
+  </br>
   <ul
     class="ant-rate"
   >
@@ -359,14 +403,18 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -377,14 +425,18 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -395,14 +447,18 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -413,14 +469,18 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -431,14 +491,18 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
 </ul>
@@ -456,14 +520,18 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -474,14 +542,18 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -492,14 +564,18 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -510,14 +586,18 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
   <li
@@ -528,14 +608,18 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
         class="anticon anticon-star"
-      />
+      >
+        
+      </i>
     </div>
   </li>
 </ul>
@@ -554,14 +638,18 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
     </li>
     <li
@@ -572,14 +660,18 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
     </li>
     <li
@@ -590,14 +682,18 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
     </li>
     <li
@@ -608,14 +704,18 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
     </li>
     <li
@@ -626,14 +726,18 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
           class="anticon anticon-star"
-        />
+        >
+          
+        </i>
       </div>
     </li>
   </ul>

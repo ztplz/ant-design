@@ -7,7 +7,9 @@ exports[`renders ./components/switch/demo/basic.md correctly 1`] = `
 >
   <span
     class="ant-switch-inner"
-  />
+  >
+    
+  </span>
 </span>
 `;
 
@@ -19,9 +21,13 @@ exports[`renders ./components/switch/demo/disabled.md correctly 1`] = `
   >
     <span
       class="ant-switch-inner"
-    />
+    >
+      
+    </span>
   </span>
-  <br />
+  <br>
+    
+  </br>
   <button
     class="ant-btn ant-btn-primary"
     type="button"
@@ -41,16 +47,22 @@ exports[`renders ./components/switch/demo/size.md correctly 1`] = `
   >
     <span
       class="ant-switch-inner"
-    />
+    >
+      
+    </span>
   </span>
-  <br />
+  <br>
+    
+  </br>
   <span
     class="ant-switch-small ant-switch"
     tabindex="0"
   >
     <span
       class="ant-switch-inner"
-    />
+    >
+      
+    </span>
   </span>
 </div>
 `;
@@ -67,7 +79,9 @@ exports[`renders ./components/switch/demo/text.md correctly 1`] = `
       关
     </span>
   </span>
-  <br />
+  <br>
+    
+  </br>
   <span
     class="ant-switch"
     tabindex="0"
@@ -78,7 +92,9 @@ exports[`renders ./components/switch/demo/text.md correctly 1`] = `
       0
     </span>
   </span>
-  <br />
+  <br>
+    
+  </br>
   <span
     class="ant-switch"
     tabindex="0"
@@ -88,7 +104,9 @@ exports[`renders ./components/switch/demo/text.md correctly 1`] = `
     >
       <i
         class="anticon anticon-cross"
-      />
+      >
+        
+      </i>
     </span>
   </span>
 </div>

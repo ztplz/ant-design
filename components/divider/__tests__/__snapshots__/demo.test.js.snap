@@ -7,7 +7,9 @@ exports[`renders ./components/divider/demo/horizontal.md correctly 1`] = `
   </p>
   <div
     class="ant-divider ant-divider-horizontal"
-  />
+  >
+    
+  </div>
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta? Refert tamen, quo modo.
   </p>
@@ -31,7 +33,9 @@ exports[`renders ./components/divider/demo/vertical.md correctly 1`] = `
   Text
   <div
     class="ant-divider ant-divider-vertical"
-  />
+  >
+    
+  </div>
   <a
     href="#"
   >
@@ -39,7 +43,9 @@ exports[`renders ./components/divider/demo/vertical.md correctly 1`] = `
   </a>
   <div
     class="ant-divider ant-divider-vertical"
-  />
+  >
+    
+  </div>
   <a
     href="#"
   >
