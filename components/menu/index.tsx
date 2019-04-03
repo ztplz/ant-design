@@ -7,7 +7,7 @@ import Item from './MenuItem';
 import { ConfigConsumer, ConfigConsumerProps } from '../config-provider';
 import animation from '../_util/openAnimation';
 import warning from '../_util/warning';
-import { polyfill } from 'react-lifecycles-compat';
+import { SiderContext } from '../layout/Sider';
 
 export interface SelectParam {
   key: string;
@@ -80,13 +80,6 @@ class Menu extends React.Component<MenuProps, MenuState> {
     collapsedWidth: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
   };
 
-  static getDerivedStateFromProps(nextProps: MenuProps) {
-    if ('openKeys' in nextProps) {
-      return { openKeys: nextProps.openKeys! };
-    }
-    return null;
-  }
-
   context: any;
   switchingModeFromInline: boolean;
   inlineOpenKeys: string[] = [];
@@ -127,24 +120,29 @@ class Menu extends React.Component<MenuProps, MenuState> {
     };
   }
 
-  componentDidUpdate(prevProps: MenuProps) {
-    if (prevProps.mode === 'inline' && this.props.mode !== 'inline') {
+  componentWillReceiveProps(nextProps: MenuProps, nextContext: SiderContext) {
+    if (this.props.mode === 'inline' && nextProps.mode !== 'inline') {
       this.switchingModeFromInline = true;
     }
+
+    if ('openKeys' in nextProps) {
+      this.setState({ openKeys: nextProps.openKeys! });
+      return;
+    }
+
     if (
-      (this.props.inlineCollapsed && !prevProps.inlineCollapsed) ||
-      (this.getInlineCollapsed() && this.contextSiderCollapsed)
+      (nextProps.inlineCollapsed && !this.props.inlineCollapsed) ||
+      (nextContext.siderCollapsed && !this.context.siderCollapsed)
     ) {
-      this.contextSiderCollapsed = false;
       this.switchingModeFromInline = true;
       this.inlineOpenKeys = this.state.openKeys;
       this.setState({ openKeys: [] });
     }
+
     if (
-      (!this.props.inlineCollapsed && prevProps.inlineCollapsed) ||
-      (!this.getInlineCollapsed() && !this.contextSiderCollapsed)
+      (!nextProps.inlineCollapsed && this.props.inlineCollapsed) ||
+      (!nextContext.siderCollapsed && this.context.siderCollapsed)
     ) {
-      this.contextSiderCollapsed = true;
       this.setState({ openKeys: this.inlineOpenKeys });
       this.inlineOpenKeys = [];
     }
@@ -306,7 +304,5 @@ class Menu extends React.Component<MenuProps, MenuState> {
     return <ConfigConsumer>{this.renderMenu}</ConfigConsumer>;
   }
 }
-
-polyfill(Menu);
 
 export default Menu;
